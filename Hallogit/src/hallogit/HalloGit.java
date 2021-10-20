@@ -9,6 +9,8 @@ public class HalloGit {
 		
 		System.out.println("HalloGit");
 	//git
+		
+		System.out.println("sup");
 	}
 
 }
